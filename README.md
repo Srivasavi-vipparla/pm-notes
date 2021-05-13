@@ -13,7 +13,16 @@
 * Click on the issues on the menu
 * Click on new issue
 * give the issue name and give comment if necessary
-* and submit the issue.
+* and creat new the issue.
+
+# How to create Project Board
+
+* Create a new project from the menu
+* Given a Project Board Name and description if necessary
+* Select the template form available four templates
+* slect the visibility mode
+* Add the linked repository name 
+
 
 
 
