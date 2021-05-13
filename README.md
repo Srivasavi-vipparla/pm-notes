@@ -8,3 +8,13 @@
 3. Systems management: address business, technological, and organizational issues before making changes to systems
 
 
+# Creating issues
+
+* Click on the issues on the menu
+* Click on new issue
+* give the issue name and give comment if necessary
+* and submit the issue.
+
+
+
+
